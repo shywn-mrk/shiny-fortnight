@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_prometheus',
     'rest_framework',
+    'marketplace',
 ]
 
 MIDDLEWARE = [
